@@ -3,6 +3,7 @@
 http://stackoverflow.com/questions/1906266/maven-2-how-to-package-current-project-version-in-a-war-file
 https://javadude.wordpress.com/2010/03/19/automatic-version-numbering-in-web-applications-with-hudson-part-1/
 -->
+dfhg
 <% 
 java.util.jar.Manifest manifest = new java.util.jar.Manifest();
 manifest.read(pageContext.getServletContext().getResourceAsStream("/META-INF/MANIFEST.MF"));
