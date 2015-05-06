@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import net.praqma.roadshow.model.CalculatorModel;
 import net.praqma.roadshow.model.CalculatorModelImpl;
-adsfg
+
 /**
  * Servlet implementation class Calculator
  */
